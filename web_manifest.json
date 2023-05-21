@@ -1,0 +1,51 @@
+{
+    "name": "OpenWHO",
+    "short_name": "OpenWHO",
+    "start_url": "/dashboard?tracking_campaign=web_app_manifest",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/assets/icons/openwho-icon-168x168-691bc7359c02a1c6b3336dc800e85db287878ba43871d4fda43fb84b54e8e2db.png",
+            "sizes": "168x168",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/openwho-icon-512x512-a0dfee9e7c5265a4a45be956e663ab18e8ccecbb5233c5e9c1277f469ef72f1c.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/openwho-icon-192x192-3c8ffcf016eebd2607d28ad6e2d6e40cb78aa0fd8443129ae9a61eee6b70adfe.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/openwho-icon-144x144-d1f84227c7a1165ef350f71b410e8f60dd9ce7ab948ca49d8c949dc027c5a7e0.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/openwho-icon-1024x1024-72861b7d425b55fe3e9b1c64e9664564d293cf99c94c274b35454b2f26dd351b.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/openwho-icon-96x96-496c9bd624726ecca863fdedf495f05295afbcfd77d4126808dc1eee3ff29750.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/openwho-icon-256x256-98473a83dc752644891d89c6ed2b1690e5aa619888c50f148710d43298055e93.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "prefer_related_applications": true,
+    "related_applications": [
+        {
+            "platform": "play",
+            "id": "de.xikolo.openwho"
+        }
+    ],
+    "background_color": "#0b72b5"
+}
